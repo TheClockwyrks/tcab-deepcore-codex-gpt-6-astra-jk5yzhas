@@ -1,0 +1,10 @@
+{
+  "width": 256,
+  "height": 256,
+  "duration_ms": 1400,
+  "fps": 30,
+  "seed": 47,
+  "actions": "art-source/gas-explosion.actions.json",
+  "preview": "/tmp/gas-explosion.png",
+  "system": "assets/fx/gas-explosion.json"
+}

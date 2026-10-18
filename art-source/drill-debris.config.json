@@ -1,0 +1,10 @@
+{
+  "width": 256,
+  "height": 256,
+  "duration_ms": 1400,
+  "fps": 30,
+  "seed": 43,
+  "actions": "art-source/drill-debris.actions.json",
+  "preview": "/tmp/drill-debris.png",
+  "system": "assets/fx/drill-debris.json"
+}

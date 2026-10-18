@@ -1,0 +1,9 @@
+{
+  "sample_rate": 22050,
+  "channels": "mono",
+  "max_duration_ms": 1200,
+  "seed": 20,
+  "actions": "art-source/alarm-fuel.sound.json",
+  "preview": "/tmp/alarm-fuel-sound.png",
+  "wav": "assets/audio/alarm-fuel.wav"
+}

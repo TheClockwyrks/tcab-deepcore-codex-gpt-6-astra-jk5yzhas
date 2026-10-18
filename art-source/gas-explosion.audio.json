@@ -1,0 +1,9 @@
+{
+  "sample_rate": 22050,
+  "channels": "mono",
+  "max_duration_ms": 1200,
+  "seed": 14,
+  "actions": "art-source/gas-explosion.sound.json",
+  "preview": "/tmp/gas-explosion-sound.png",
+  "wav": "assets/audio/gas-explosion.wav"
+}

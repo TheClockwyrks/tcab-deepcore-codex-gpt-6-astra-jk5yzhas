@@ -1,0 +1,9 @@
+{
+  "sample_rate": 22050,
+  "channels": "mono",
+  "max_duration_ms": 2000,
+  "seed": 18,
+  "actions": "art-source/launch.sound.json",
+  "preview": "/tmp/launch-sound.png",
+  "wav": "assets/audio/launch.wav"
+}

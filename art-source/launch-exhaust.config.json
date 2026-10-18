@@ -1,0 +1,10 @@
+{
+  "width": 256,
+  "height": 256,
+  "duration_ms": 1400,
+  "fps": 30,
+  "seed": 52,
+  "actions": "art-source/launch-exhaust.actions.json",
+  "preview": "/tmp/launch-exhaust.png",
+  "system": "assets/fx/launch-exhaust.json"
+}

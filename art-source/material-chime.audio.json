@@ -1,0 +1,9 @@
+{
+  "sample_rate": 22050,
+  "channels": "mono",
+  "max_duration_ms": 1200,
+  "seed": 13,
+  "actions": "art-source/material-chime.sound.json",
+  "preview": "/tmp/material-chime-sound.png",
+  "wav": "assets/audio/material-chime.wav"
+}

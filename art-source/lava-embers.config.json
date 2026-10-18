@@ -1,0 +1,10 @@
+{
+  "width": 256,
+  "height": 256,
+  "duration_ms": 1400,
+  "fps": 30,
+  "seed": 48,
+  "actions": "art-source/lava-embers.actions.json",
+  "preview": "/tmp/lava-embers.png",
+  "system": "assets/fx/lava-embers.json"
+}

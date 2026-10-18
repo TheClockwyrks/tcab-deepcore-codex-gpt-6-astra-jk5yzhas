@@ -1,0 +1,9 @@
+{
+  "sample_rate": 22050,
+  "channels": "mono",
+  "max_duration_ms": 1200,
+  "seed": 15,
+  "actions": "art-source/lava-sizzle.sound.json",
+  "preview": "/tmp/lava-sizzle-sound.png",
+  "wav": "assets/audio/lava-sizzle.wav"
+}

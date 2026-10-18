@@ -1,0 +1,10 @@
+{
+  "width": 256,
+  "height": 256,
+  "duration_ms": 1400,
+  "fps": 30,
+  "seed": 50,
+  "actions": "art-source/core-extract.actions.json",
+  "preview": "/tmp/core-extract.png",
+  "system": "assets/fx/core-extract.json"
+}

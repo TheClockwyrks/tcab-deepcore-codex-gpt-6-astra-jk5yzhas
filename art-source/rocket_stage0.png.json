@@ -1,0 +1,18 @@
+[
+  {
+    "op": "fill_rect",
+    "x": 10,
+    "y": 183,
+    "width": 140,
+    "height": 12,
+    "color": "#3a535e"
+  },
+  {
+    "op": "fill_rect",
+    "x": 17,
+    "y": 180,
+    "width": 125,
+    "height": 4,
+    "color": "#c29b64"
+  }
+]

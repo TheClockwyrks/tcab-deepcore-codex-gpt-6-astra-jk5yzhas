@@ -1,0 +1,10 @@
+{
+  "width": 256,
+  "height": 256,
+  "duration_ms": 1400,
+  "fps": 30,
+  "seed": 49,
+  "actions": "art-source/impact-dust.actions.json",
+  "preview": "/tmp/impact-dust.png",
+  "system": "assets/fx/impact-dust.json"
+}

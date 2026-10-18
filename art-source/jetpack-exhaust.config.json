@@ -1,0 +1,10 @@
+{
+  "width": 256,
+  "height": 256,
+  "duration_ms": 1400,
+  "fps": 30,
+  "seed": 44,
+  "actions": "art-source/jetpack-exhaust.actions.json",
+  "preview": "/tmp/jetpack-exhaust.png",
+  "system": "assets/fx/jetpack-exhaust.json"
+}

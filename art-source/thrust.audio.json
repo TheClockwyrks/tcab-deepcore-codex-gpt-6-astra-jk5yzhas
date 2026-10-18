@@ -1,0 +1,9 @@
+{
+  "sample_rate": 22050,
+  "channels": "mono",
+  "max_duration_ms": 1000,
+  "seed": 11,
+  "actions": "art-source/thrust.sound.json",
+  "preview": "/tmp/thrust-sound.png",
+  "wav": "assets/audio/thrust.wav"
+}

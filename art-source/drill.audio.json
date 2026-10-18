@@ -1,0 +1,9 @@
+{
+  "sample_rate": 22050,
+  "channels": "mono",
+  "max_duration_ms": 1000,
+  "seed": 10,
+  "actions": "art-source/drill.sound.json",
+  "preview": "/tmp/drill-sound.png",
+  "wav": "assets/audio/drill.wav"
+}

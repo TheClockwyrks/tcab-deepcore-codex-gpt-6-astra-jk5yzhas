@@ -1,0 +1,15 @@
+[[media]]
+file = "descent.json.gz"
+name = "Cut a shaft. Fly it home."
+
+[[media]]
+file = "descent.png"
+name = "Follow the signal through rockbed"
+
+[[media]]
+file = "surface.png"
+name = "Refuel, sell, and rebuild at camp"
+
+[[media]]
+file = "rocket.png"
+name = "One component. Thirty-four seconds."

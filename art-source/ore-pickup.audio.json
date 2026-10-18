@@ -1,0 +1,9 @@
+{
+  "sample_rate": 22050,
+  "channels": "mono",
+  "max_duration_ms": 1200,
+  "seed": 12,
+  "actions": "art-source/ore-pickup.sound.json",
+  "preview": "/tmp/ore-pickup-sound.png",
+  "wav": "assets/audio/ore-pickup.wav"
+}

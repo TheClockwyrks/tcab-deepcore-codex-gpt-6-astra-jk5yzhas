@@ -1,0 +1,58 @@
+[
+  {
+    "op": "add_voice",
+    "name": "body",
+    "wave": "sine",
+    "freq": 600.0,
+    "gain": -20.0,
+    "pan": 0.0,
+    "start_ms": 0.0,
+    "dur_ms": 700.0
+  },
+  {
+    "op": "add_voice",
+    "name": "metal",
+    "wave": "triangle",
+    "freq": 870.0,
+    "gain": -25.0,
+    "pan": 0.0,
+    "start_ms": 0.0,
+    "dur_ms": 489.99999999999994
+  },
+  {
+    "op": "set_pitch",
+    "voice": "metal",
+    "slide_to_hz": 1100.0,
+    "over_ms": 700.0
+  },
+  {
+    "op": "add_sample",
+    "name": "mech_clip_load",
+    "t_ms": 0.0,
+    "gain": -16.0,
+    "pitch": 9.0,
+    "trim_in_ms": 0.0,
+    "trim_out_ms": 650.0,
+    "fade_in_ms": 0.0,
+    "fade_out_ms": 160.0,
+    "reverse": false
+  },
+  {
+    "op": "set_envelope",
+    "voice": "body",
+    "attack_ms": null,
+    "decay_ms": null,
+    "sustain": null,
+    "release_ms": null,
+    "env": "pluck"
+  },
+  {
+    "op": "set_envelope",
+    "voice": "metal",
+    "attack_ms": null,
+    "decay_ms": null,
+    "sustain": null,
+    "release_ms": null,
+    "env": "pluck"
+  }
+]

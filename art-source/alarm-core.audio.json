@@ -1,0 +1,9 @@
+{
+  "sample_rate": 22050,
+  "channels": "mono",
+  "max_duration_ms": 1200,
+  "seed": 21,
+  "actions": "art-source/alarm-core.sound.json",
+  "preview": "/tmp/alarm-core-sound.png",
+  "wav": "assets/audio/alarm-core.wav"
+}

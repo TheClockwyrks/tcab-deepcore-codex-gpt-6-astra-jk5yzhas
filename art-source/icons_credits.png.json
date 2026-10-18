@@ -1,0 +1,12 @@
+[
+  { "op": "fill_circle", "cx": 12, "cy": 12, "r": 9, "color": "#efcf79" },
+  { "op": "fill_circle", "cx": 12, "cy": 12, "r": 6, "color": "#60553e" },
+  {
+    "op": "fill_rect",
+    "x": 10,
+    "y": 6,
+    "width": 4,
+    "height": 12,
+    "color": "#efcf79"
+  }
+]

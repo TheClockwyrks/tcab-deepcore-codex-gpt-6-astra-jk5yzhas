@@ -1,0 +1,9 @@
+{
+  "sample_rate": 22050,
+  "channels": "mono",
+  "max_duration_ms": 1200,
+  "seed": 19,
+  "actions": "art-source/death.sound.json",
+  "preview": "/tmp/death-sound.png",
+  "wav": "assets/audio/death.wav"
+}

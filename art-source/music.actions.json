@@ -1,0 +1,242 @@
+[
+  {
+    "op": "set_tempo",
+    "bpm": 80
+  },
+  {
+    "op": "define_track",
+    "name": "depth",
+    "instrument": "sine"
+  },
+  {
+    "op": "set_track_fx",
+    "track": "depth",
+    "gain": -21.0,
+    "pan": null,
+    "reverb": 0.4,
+    "env": null
+  },
+  {
+    "op": "define_track",
+    "name": "signal",
+    "instrument": "triangle"
+  },
+  {
+    "op": "set_track_fx",
+    "track": "signal",
+    "gain": -27.0,
+    "pan": null,
+    "reverb": 0.4,
+    "env": null
+  },
+  {
+    "op": "add_note",
+    "track": "depth",
+    "pitch": 33,
+    "t_beats": 0.0,
+    "dur_beats": 8.0,
+    "velocity": 62
+  },
+  {
+    "op": "add_note",
+    "track": "signal",
+    "pitch": 57,
+    "t_beats": 0.0,
+    "dur_beats": 1.5,
+    "velocity": 40
+  },
+  {
+    "op": "add_note",
+    "track": "signal",
+    "pitch": 64,
+    "t_beats": 2.0,
+    "dur_beats": 1.5,
+    "velocity": 40
+  },
+  {
+    "op": "add_note",
+    "track": "signal",
+    "pitch": 69,
+    "t_beats": 4.0,
+    "dur_beats": 1.5,
+    "velocity": 40
+  },
+  {
+    "op": "add_note",
+    "track": "signal",
+    "pitch": 72,
+    "t_beats": 6.0,
+    "dur_beats": 1.5,
+    "velocity": 40
+  },
+  {
+    "op": "add_note",
+    "track": "depth",
+    "pitch": 33,
+    "t_beats": 8.0,
+    "dur_beats": 8.0,
+    "velocity": 62
+  },
+  {
+    "op": "add_note",
+    "track": "signal",
+    "pitch": 57,
+    "t_beats": 8.0,
+    "dur_beats": 1.5,
+    "velocity": 40
+  },
+  {
+    "op": "add_note",
+    "track": "signal",
+    "pitch": 64,
+    "t_beats": 10.0,
+    "dur_beats": 1.5,
+    "velocity": 40
+  },
+  {
+    "op": "add_note",
+    "track": "signal",
+    "pitch": 69,
+    "t_beats": 12.0,
+    "dur_beats": 1.5,
+    "velocity": 40
+  },
+  {
+    "op": "add_note",
+    "track": "signal",
+    "pitch": 72,
+    "t_beats": 14.0,
+    "dur_beats": 1.5,
+    "velocity": 40
+  },
+  {
+    "op": "add_note",
+    "track": "depth",
+    "pitch": 29,
+    "t_beats": 16.0,
+    "dur_beats": 8.0,
+    "velocity": 62
+  },
+  {
+    "op": "add_note",
+    "track": "signal",
+    "pitch": 53,
+    "t_beats": 16.0,
+    "dur_beats": 1.5,
+    "velocity": 40
+  },
+  {
+    "op": "add_note",
+    "track": "signal",
+    "pitch": 60,
+    "t_beats": 18.0,
+    "dur_beats": 1.5,
+    "velocity": 40
+  },
+  {
+    "op": "add_note",
+    "track": "signal",
+    "pitch": 65,
+    "t_beats": 20.0,
+    "dur_beats": 1.5,
+    "velocity": 40
+  },
+  {
+    "op": "add_note",
+    "track": "signal",
+    "pitch": 68,
+    "t_beats": 22.0,
+    "dur_beats": 1.5,
+    "velocity": 40
+  },
+  {
+    "op": "add_note",
+    "track": "depth",
+    "pitch": 31,
+    "t_beats": 24.0,
+    "dur_beats": 8.0,
+    "velocity": 62
+  },
+  {
+    "op": "add_note",
+    "track": "signal",
+    "pitch": 55,
+    "t_beats": 24.0,
+    "dur_beats": 1.5,
+    "velocity": 40
+  },
+  {
+    "op": "add_note",
+    "track": "signal",
+    "pitch": 62,
+    "t_beats": 26.0,
+    "dur_beats": 1.5,
+    "velocity": 40
+  },
+  {
+    "op": "add_note",
+    "track": "signal",
+    "pitch": 67,
+    "t_beats": 28.0,
+    "dur_beats": 1.5,
+    "velocity": 40
+  },
+  {
+    "op": "add_note",
+    "track": "signal",
+    "pitch": 70,
+    "t_beats": 30.0,
+    "dur_beats": 1.5,
+    "velocity": 40
+  },
+  {
+    "op": "define_track",
+    "name": "signal",
+    "instrument": "vibraphone"
+  },
+  {
+    "op": "define_track",
+    "name": "atmosphere",
+    "instrument": "synth_pad"
+  },
+  {
+    "op": "set_track_fx",
+    "track": "atmosphere",
+    "gain": -30.0,
+    "pan": null,
+    "reverb": 0.6,
+    "env": "swell"
+  },
+  {
+    "op": "add_note",
+    "track": "atmosphere",
+    "pitch": 57,
+    "t_beats": 0.0,
+    "dur_beats": 8.0,
+    "velocity": 55
+  },
+  {
+    "op": "add_note",
+    "track": "atmosphere",
+    "pitch": 53,
+    "t_beats": 8.0,
+    "dur_beats": 8.0,
+    "velocity": 55
+  },
+  {
+    "op": "add_note",
+    "track": "atmosphere",
+    "pitch": 55,
+    "t_beats": 16.0,
+    "dur_beats": 8.0,
+    "velocity": 55
+  },
+  {
+    "op": "add_note",
+    "track": "atmosphere",
+    "pitch": 52,
+    "t_beats": 24.0,
+    "dur_beats": 8.0,
+    "velocity": 55
+  }
+]

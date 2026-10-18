@@ -1,0 +1,10 @@
+{
+  "width": 256,
+  "height": 256,
+  "duration_ms": 1400,
+  "fps": 30,
+  "seed": 46,
+  "actions": "art-source/material-shimmer.actions.json",
+  "preview": "/tmp/material-shimmer.png",
+  "system": "assets/fx/material-shimmer.json"
+}
